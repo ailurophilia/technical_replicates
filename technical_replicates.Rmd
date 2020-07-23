@@ -17,7 +17,6 @@ As with many measurements, the estimates of sample composition we obtain from 16
 
 
 ```{r, echo = F}
-rm(list = ls())
 suppressWarnings(suppressMessages(library(tidyr)))
 suppressWarnings(suppressMessages(library(magrittr)))
 suppressWarnings(suppressMessages(library(ggplot2)))
